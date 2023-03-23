@@ -1,6 +1,6 @@
 # Hello !
 
-Please find my Linkedin profile link and my currents projects below:
+Please find my Linkedin profile link and some of my  projects below:
 
 <div id="linkedin" align="center">
   <a href="https://www.linkedin.com/in/albert-piechnik/">
