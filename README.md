@@ -1,4 +1,4 @@
-# Hello !
+# Hello I am Albert !
 
 Please find my Linkedin profile link and some of my  projects below:
 
@@ -7,6 +7,19 @@ Please find my Linkedin profile link and some of my  projects below:
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+
+## Task List
+
+### To Do
+- Familiarizing oneself with Joshua Bloch's book "Effective Java Programming"
+- Familiarizing oneself with Jenkins
+
+### Doing
+- Getting acquainted with Aditya Y. Bhargava's book "Grokking Algorithms: An Illustrated Guide"
+- Revision of theoretical concepts in programming and Java JVM
+
+### Done
+- An initial acquaintance with Docker: [Link](https://drive.google.com/file/d/1mP66OxJgFvLe1bZEQoK-02NKFAils_Rs/view?usp=sharing)
 
 #  Projects
 | Name | Technologies & Description | GitHub Link |
