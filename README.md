@@ -13,11 +13,12 @@ Please find my Linkedin profile link and some of my  projects below:
 ### Doing
 - Revision of theoretical concepts in programming and Java JVM 
 - HackerRank and CodeWars challenges
-- Familiarizing oneself with Kotlin
+- Revising Design Patterns
 
 ### To Do
 - Familiarizing oneself with Joshua Bloch's book "Effective Java Programming"
 - Familiarizing oneself with Jenkins
+- Familiarizing oneself with Kotlin
 
 ### Done
 - An initial acquaintance with Docker: [Link](https://drive.google.com/file/d/1mP66OxJgFvLe1bZEQoK-02NKFAils_Rs/view?usp=sharing)
