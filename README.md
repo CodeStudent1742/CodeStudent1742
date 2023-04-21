@@ -13,7 +13,7 @@ Please find my Linkedin profile link and some of my  projects below:
 ### Doing
 - Revision of theoretical concepts in programming and Java JVM 
 - HackerRank and CodeWars challenges
-- Revising Design Patterns
+- Revision of Design Patterns
 
 ### To Do
 - Familiarizing oneself with Joshua Bloch's book "Effective Java Programming"
