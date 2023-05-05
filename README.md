@@ -14,10 +14,11 @@ Please find my Linkedin profile link and some of my  projects below:
 - HackerRank and CodeWars challenges
 - Revision of Design Patterns
 - Familiarizing oneself with Joshua Bloch's book "Effective Java Programming"
+- Familiarizing oneself with Kotlin (Kotlin Core Course on JetBrains Academy)
 
 ### To Do
 - Familiarizing oneself with Jenkins
-- Familiarizing oneself with Kotlin
+
 
 ### Done
 - An initial acquaintance with Docker: [Link](https://drive.google.com/file/d/1mP66OxJgFvLe1bZEQoK-02NKFAils_Rs/view?usp=sharing)
