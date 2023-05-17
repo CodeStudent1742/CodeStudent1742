@@ -12,7 +12,7 @@ Please find my Linkedin profile link and some of my  projects below:
 
 ### Doing
 - HackerRank and CodeWars challenges
-- Revision of Design Patterns
+- Revision of Design Patterns : </br><a href="[https://github.com/CodeStudent1742/Design_Pattern_Revision"]><img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Badge"/></a>|
 - Familiarizing oneself with Joshua Bloch's book "Effective Java Programming"
 - Familiarizing oneself with Kotlin (Kotlin Core Course on JetBrains Academy)
 
