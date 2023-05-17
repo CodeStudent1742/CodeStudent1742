@@ -23,7 +23,7 @@ Please find my Linkedin profile link and some of my  projects below:
 - An initial acquaintance with Docker: [Link](https://drive.google.com/file/d/1mP66OxJgFvLe1bZEQoK-02NKFAils_Rs/view?usp=sharing)
 - Getting acquainted with Aditya Y. Bhargava's book "Grokking Algorithms: An Illustrated Guide"
 - Revision of theoretical concepts in programming and Java JVM 
-- Revision of Design Patterns : </br><a href="https://github.com/CodeStudent1742/Design_Pattern_Revision"><img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Badge"/></a>|
+- Revision of Design Patterns : </br><a href="https://github.com/CodeStudent1742/Design_Pattern_Revision"><img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Badge"/></a>
 
 #  Projects
 | Name | Technologies & Description | GitHub Link |
