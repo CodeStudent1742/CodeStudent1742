@@ -11,8 +11,9 @@ Please find my Linkedin profile link and some of my  projects below:
 ## Task List
 
 ### Doing
+- Familiarizing with advanced Spring and Hibernate topics
 - Familiarizing oneself with Joshua Bloch's book "Effective Java Programming"
-- Familiarizing oneself with Kotlin (Kotlin Core Course on JetBrains Academy)
+- Familiarizing oneself with Kotlin (Kotlin Core Course on JetBrains Academy) 
 - HackerRank and CodeWars challenges
 
 ### To Do
