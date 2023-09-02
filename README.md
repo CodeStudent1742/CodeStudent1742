@@ -11,16 +11,17 @@ Please find my Linkedin profile link and some of my  projects below:
 ## Task List
 
 ### Doing
-- Familiarizing with advanced Spring and Hibernate topics
 - Familiarizing oneself with Joshua Bloch's book "Effective Java Programming"
 - Familiarizing oneself with Kotlin (Kotlin Core Course on JetBrains Academy) 
-- HackerRank and CodeWars challenges
+
 
 ### To Do
 - Familiarizing oneself with Jenkins
-
+- HackerRank and CodeWars challenges
 
 ### Done
+- Familiarizing with advanced Spring and Hibernate topics
+- Familiarizing oneself with Javascript
 - An initial acquaintance with Docker: [Link](https://drive.google.com/file/d/1mP66OxJgFvLe1bZEQoK-02NKFAils_Rs/view?usp=sharing)
 - Getting acquainted with Aditya Y. Bhargava's book "Grokking Algorithms: An Illustrated Guide"
 - Revision of theoretical concepts in programming and Java JVM 
