@@ -12,12 +12,7 @@ Please find my Linkedin profile link and some of my  projects below:
 
 ### Doing
 - Familiarizing oneself with Joshua Bloch's book "Effective Java Programming"
-- Familiarizing oneself with Kotlin (Kotlin Core Course on JetBrains Academy) 
 
-
-### To Do
-- Familiarizing oneself with Jenkins
-- HackerRank and CodeWars challenges
 
 ### Done
 - Familiarizing with advanced Spring and Hibernate topics
