@@ -8,20 +8,6 @@ Please find my Linkedin profile link and some of my  projects below:
   </a>
 </div>
 
-## Task List
-
-### Doing
-- Familiarizing oneself with Joshua Bloch's book "Effective Java Programming"
-
-
-### Done
-- Familiarizing with advanced Spring and Hibernate topics
-- Familiarizing oneself with Javascript
-- An initial acquaintance with Docker: [Link](https://drive.google.com/file/d/1mP66OxJgFvLe1bZEQoK-02NKFAils_Rs/view?usp=sharing)
-- Getting acquainted with Aditya Y. Bhargava's book "Grokking Algorithms: An Illustrated Guide"
-- Revision of theoretical concepts in programming and Java JVM 
-- Revision of Design Patterns : [Github Link](https://github.com/CodeStudent1742/Design_Pattern_Revision)
-
 #  Projects
 | Name | Technologies & Description | GitHub Link |
 | :------------- | :------- | :------------------------- |
